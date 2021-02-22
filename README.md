@@ -1,2 +1,2 @@
 # Lyra
- Virtual Assistant
+ VVA
